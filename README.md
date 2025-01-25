@@ -4,6 +4,8 @@
 
 This project implements a **Neural Network** from scratch to recognize handwritten digits. The model is trained on the **MNIST dataset** and is capable of predicting digits based on user input. The entire process, including the model architecture, training, and saving the model, is done without relying on any deep learning frameworks such as TensorFlow or PyTorch. The model is built using only NumPy for matrix operations and data manipulation.
 
+** Kindly download MNIST handwritten digits (0-9) dataset with training and testing csv files.
+
 ## Features
 
 - **Neural Network Model**: Custom-built neural network to recognize handwritten digits.
